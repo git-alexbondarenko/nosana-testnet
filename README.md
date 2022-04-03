@@ -1,1 +1,3 @@
 # nosana-testnet
+hello
+gm
